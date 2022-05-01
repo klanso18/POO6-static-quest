@@ -1,0 +1,1 @@
+# POO6-static-quest
